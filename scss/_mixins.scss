@@ -1,0 +1,10 @@
+
+@mixin navigation {
+	width: 13em;
+	margin: 2em auto;
+	background: $primary;
+	-moz-border-radius: 0.4em / 0.4em;
+	-webkit-border-radius: 0.4em 0.4em;
+	border-radius: 0.4em / 0.4em;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);	
+}
